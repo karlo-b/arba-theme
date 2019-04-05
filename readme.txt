@@ -1,3 +1,5 @@
+![alt text](https://github.com/karlo-b/arba-theme/blob/master/screenshot.png)
+
 === Arba ===
 Contributors: xstreamthemes
 Requires at least: WordPress 4.7
