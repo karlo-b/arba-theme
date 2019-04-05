@@ -1,0 +1,6 @@
+#accordion-section-arba_theme_pro .accordion-section-title {
+    color: #fff;
+    background: #ff6000;
+    -webkit-transition: background 0.2s;
+    transition: background 0.2s;
+}

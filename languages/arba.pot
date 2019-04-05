@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-13 18:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: arba/404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: arba/404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: arba/404.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: arba/404.php:41
+msgid "Pages"
+msgstr ""
+
+#: arba/404.php:46
+msgid "Monthly"
+msgstr ""
+
+#: arba/404.php:51
+msgid "Categories"
+msgstr ""
+
+#: arba/404.php:56
+msgid "Authors"
+msgstr ""
+
+#: arba/comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: arba/comments.php:26
+msgid "Leave a Comment"
+msgstr ""
+
+#: arba/comments.php:45
+msgid "&larr; Older comments"
+msgstr ""
+
+#: arba/comments.php:47
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: arba/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: arba/footer.php:46
+#, php-format
+msgid "%2$s WordPress Theme by <a href=\"%1$s\">XstreamThemes</a>."
+msgstr ""
+
+#: arba/functions.php:53
+msgid "Primary Navigation"
+msgstr ""
+
+#: arba/functions.php:99
+msgctxt "Google fonta: on or off"
+msgid "on"
+msgstr ""
+
+#: arba/pagination.php:21
+msgid "Load More Posts"
+msgstr ""
+
+#: arba/search.php:29
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: arba/searchform.php:13
+msgid "Search..."
+msgstr ""
+
+#: arba/inc/author-box.php:20
+msgid "Author: "
+msgstr ""
+
+#: arba/inc/recent-posts.php:13
+msgid "Latest Posts"
+msgstr ""
+
+#: arba/inc/template-tags.php:80
+msgid "&mdash;"
+msgstr ""
+
+#: arba/inc/template-tags.php:136
+msgid "Previous Article"
+msgstr ""
+
+#: arba/inc/template-tags.php:144
+msgid "Next Article"
+msgstr ""
+
+#: arba/inc/template-tags.php:168
+msgid "&larr;  Previous"
+msgstr ""
+
+#: arba/inc/template-tags.php:169
+msgid "Next  &rarr;"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:19
+msgid "Site Identity"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:39
+msgid "Turn ON/OFF Image Logo"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:59
+msgid "Upload Logo Image"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:79
+msgid "Logo Height Size"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:80
+msgid "Enter your logo height. Min height: 40px. Max height: 80px"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:100
+msgid "Upload Logo for Schema.org (200x200)"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:101
+msgid "This logo will be used for Schema.org. The size is used to be 200x200."
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:120
+msgid "Facebook Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:139
+msgid "Twitter Account"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:158
+msgid "Google Plus Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:177
+msgid "Linkedin Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:196
+msgid "Instagram Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:215
+msgid "Pinterest Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:234
+msgid "Youtube Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:253
+msgid "RSS Feed Link"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:265
+msgid "Colors"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:295
+msgid "Highlight Color"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:315
+msgid "Logo Text Color"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:335
+msgid "Link Color"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:349
+#: arba/inc/customizer/customizer.php:362
+msgid "Single Post"
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:379
+msgid "Remove The Featured Image."
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:398
+msgid "Remove The Author Box."
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:417
+msgid "Remove Recent Posts."
+msgstr ""
+
+#: arba/inc/customizer/customizer.php:428
+#: arba/inc/customizer/customizer.php:439
+#: arba/inc/customizer/customizer.php:456
+msgid "Google Analytics"
+msgstr ""
+
+#: arba/template-parts/content-home-sticky.php:24
+#: arba/template-parts/content.php:30
+msgid "Read More &rarr;"
+msgstr ""
+
+#: arba/template-parts/content-none.php:13
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: arba/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: arba/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: arba/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: arba/template-parts/content-page.php:32
+msgid "Pages:"
+msgstr ""
+
+#: arba/template-parts/content-page.php:39
+msgid "In this article:"
+msgstr ""
+
+#: arba/template-parts/content-single.php:42
+msgid "Pages: "
+msgstr ""
